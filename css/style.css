@@ -1,0 +1,125 @@
+body {
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    background: #E4E4E4;
+
+}
+.clear{
+	clear:both;
+}
+.container
+{
+    width: 100%;  
+}
+
+ul li{
+    list-style-type: none;
+	float:left;
+	padding: 5px;
+}  
+ .inner-font-css
+ {
+     font-family:'Roboto',arial,sans-serif;
+     text-decoration: underline;
+     text-decoration-color: #70757a;
+     font-size: 12px;
+     letter-spacing: 0.2px;
+     line-height: 20px;
+     max-height: 20px;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     white-space: nowrap;
+ }
+ .header-hero-section {
+    background: url("../images/Home12.jpg") 100% ;
+    background-size: cover;
+    height:30vh;
+    text-align: center;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    }
+
+    .header-hero-section .header-hero-section-text {
+    color: #fefefe;
+    text-shadow: 1px 1px 2px #0a0a0a;
+    position:absolute;
+    font-family: 'Srisakdi', cursive;
+    } 
+    .footer-hero-section {
+    background-color: black ;
+    background-size: cover;
+    height:25vh;
+    text-align: center;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+           padding-top: 10px;
+           font-size:12PX;
+    }
+    .padding-top-5
+    {
+        padding-top: 5px;
+    }
+
+    .padding-top-10
+    {
+        padding-top: 10px;
+    }
+
+    .jump-detail-section
+    {
+        background-color:#13363a ; 
+        height:90vh;
+        padding-bottom:90px;
+        left:0px;
+        padding-top:0px;
+        height: 10vh;
+        font-family:'Charmonman', cursive;
+        color:whitesmoke;
+        font-family:'Roboto',arial,sans-serif;
+        border-radius: 0px;
+		margin-top: 10%;
+    }
+
+    .display-content-head
+    {
+        font-family: 'Bungee Shade', cursive;top:10px;font-size:15px;vertical-align:center;background-color:black;color:white;text-align:center;height:9vh;
+    }
+
+    .jump-lead-section
+    {
+        font-size: 12px;font-style: italic;
+    }
+    .padding-right-0
+    {
+        padding-right:0px;
+    }
+    .padding-left-0
+    {
+        padding-left:0px;
+    }
+    
+
+ul li{
+list-style-type: none;
+}
+footer ul li a{
+  float:left;  
+}
+footer .section3 a{
+    padding: 5px 22px;
+}
